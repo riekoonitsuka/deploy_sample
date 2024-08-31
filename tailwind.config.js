@@ -7,6 +7,6 @@ module.exports = {
   ],
   plugins: [require("daisyui")],
   daisyui: {
-  darkTheme: false, # ダークモードをオフ。オンにしたい場合は削除
+  darkTheme: false,
   },
 }
